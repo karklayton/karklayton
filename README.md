@@ -17,4 +17,3 @@ In here lives projects I've been working on.
 ### Apps and Websites
 
 * [cyRUS by Victorialand Beauty](https://github.com/karklayton/cyrusapp)
-* [ColorWise](https://github.com/karklayton/colorwise)
