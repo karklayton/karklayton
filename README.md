@@ -6,7 +6,7 @@ In here lives the projects I've been working on.
 
 ### IoT Devices
 
-* [BoldHue](https://github.com/karklayton/boldhue) - Co-Founder and CTO for an award winning beauty tech device startup. Includes motors, pumps, optical color sensors, custom algorithms, database, and BLE companion app.
+* [BoldHue](https://github.com/karklayton/boldhue) - Co-Founder and CTO for an award winning beauty tech device startup that scans skin and creates color matched liquid foundation on demand. Includes motors, pumps, optical color sensors, custom algorithms, database, and BLE companion app.
 
 ### Electromechanical prototypes
 
