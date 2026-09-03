@@ -1,7 +1,7 @@
 ## Hey  there, I'm Karin
 I'm an entrepreneur, inventor, engineer, and tinkerer. I love building things. 
 
-In here lives the projects I've been working on.
+In here lives the projects I am and have worked on.
 
 
 ### IoT Devices
