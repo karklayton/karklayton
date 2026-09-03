@@ -1,4 +1,4 @@
-## Hey  there, I'm Karin
+## Hey  there, I'm Karin ✨
 I'm an entrepreneur, inventor, engineer, and tinkerer. I love building things. 
 
 In here lives the projects I am and have worked on.
